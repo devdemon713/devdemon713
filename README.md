@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prashant+Kolhe+%F0%9F%91%8B;Full-Stack+Java+%2F+Spring+Boot+Developer;B.Tech+CSE+%40+Walchand+College+of+Engineering;National+Finalist+%40+Smart+India+Hackathon+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Hi+there%2C+I'm+Prashant+Kolhe+%F0%9F%91%8B;Full-Stack+Java+%2F+Spring+Boot+Developer;B.Tech+CSE+Student+%40+Walchand+College+of+Engineering;National+Finalist+-+Smart+India+Hackathon+2025" alt="Typing SVG" />
 
 <br>
 
@@ -16,7 +16,7 @@
 
 </div>
 
----
+<br>
 
 ### 👨‍💻 About Me
 
@@ -28,48 +28,36 @@ I'm **Prashant Kolhe**, a B.Tech Computer Science and Engineering student at **W
 - 🥉 **2nd Runner-Up**, WCPC March 2024 (ICPC-style, 100+ participants)
 - 💰 **Revenue Manager**, CodeChef WCE Chapter — managed budgeting for WCPC 2025
 
----
+<br>
 
-### 🛠️ Tech Stack
+### 🧠 Skills
 
 <div align="center">
 
-**Languages**
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-
-**Databases**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,mongodb,mysql,postgres,docker,git,github,postman&theme=dark&perline=6" alt="Skills" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| **Languages** | Java · C++ · JavaScript · SQL |
+| **Frameworks & Libraries** | Spring Boot · React · Spring Security |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Tools & Practices** | Git · GitHub · Docker |
+
+</div>
+
+<br>
 
 ### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🏥 [Betterlife – Hospital Management System](https://github.com/devdemon713)**
 
@@ -82,7 +70,7 @@ Full-stack HMS with 3 role-based dashboards and REST APIs.
 `Java` `Spring Boot` `React` `PostgreSQL` `Spring Security` `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **⚡ [Token Bucket Rate Limiter Service](https://github.com/devdemon713)**
 
@@ -98,26 +86,28 @@ Configurable rate-limiting microservice, deployed on AWS EC2.
 </tr>
 </table>
 
----
+<br>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdemon713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdemon713&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdemon713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdemon713&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdemon713&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=devdemon713&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+<br>
 
 ### 📫 Let's Connect
 
 I'm always open to discussions, collaborations, and learning from fellow developers.
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kolhe-6a8b55200/)
 [![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolheprashant456@gmail.com)
