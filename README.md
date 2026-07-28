@@ -12,7 +12,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/prashant.kolhe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolheprashant456@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=devdemon713&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-402-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -85,21 +85,6 @@ Configurable rate-limiting microservice, deployed on AWS EC2.
 </td>
 </tr>
 </table>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdemon713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdemon713&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=devdemon713&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 <br>
 
