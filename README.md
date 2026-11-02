@@ -21,7 +21,7 @@
 ### 🧠 Coding Profiles
 
 <div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Prashantvk_18" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Prashantvk_18&theme=dark" alt="LeetCode Activity Heatmap" />
 </div>
 
 <br>
