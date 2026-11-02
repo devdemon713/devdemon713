@@ -18,6 +18,14 @@
 
 <br>
 
+### 🧠 Coding Profiles
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/Prashantvk_18" alt="LeetCode Stats" />
+</div>
+
+<br>
+
 ### 👨‍💻 About Me
 
 I'm **Prashant Kolhe**, a B.Tech Computer Science and Engineering student at **Walchand College of Engineering, Sangli** (CGPA: 8.18/10). I build production-style backend systems and full-stack applications — from JWT-secured REST APIs to concurrency-safe rate limiters — and I compete in hackathons and competitive programming.
