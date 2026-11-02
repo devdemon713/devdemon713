@@ -18,10 +18,14 @@
 
 <br>
 
-### 🧠 Coding Profiles
-
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Prashantvk_18&theme=dark" alt="LeetCode Activity Heatmap" />
+
+## 🧠 Coding Profiles
+
+<a href="https://leetcode.com/u/Prashantvk_18/">
+  <img src="https://leetcard.jacoblin.cool/Prashantvk_18?theme=dark&ext=heatmap" alt="LeetCode Heatmap" width="80%" />
+</a>
+
 </div>
 
 <br>
